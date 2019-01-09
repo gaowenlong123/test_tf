@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="625dd994-abc4-4c83-946f-158bb6f866b9" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/1.1 tf 求解线性回归.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/1.2 tf 常量与变量.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/1.3 tf placeholder的使用.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/1.4 tf add_layer.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/1.5 tf 构造简单的神经网络.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/1.6 使用matplotlib可视化.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/1.6 使用matplotlib可视化的输出结果.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/1.7 计算cost的优化方式.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/1.8 tf 使用tensorboard可视化-2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/1.8 tf 使用tensorboard可视化.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.1 tf 分类 识别手写数字集mnist.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.1 tf 分类 识别手写数字集mnist_自己的实现.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.1 tf 分类 识别手写数字集mnist_自己的实现2 - 增加计算预测精度的函数.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.2 tf 使用dropout解决过拟合.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.3 tf 卷积神经网络.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.4 tf 保存网络.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.4 tf 加载网络.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.5 tf 循环神经网络rnn_分类.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.5 tf 循环神经网络rnn_分类2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.6 tf 循环神经网络run_回归.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.7 tf 自编码器1-输出结果.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.7 tf 自编码器1.1- 自己的写的.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.7 tf 自编码器1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.7 tf 自编码器2- 高维to低维度的编码器-输出结果.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.7 tf 自编码器2-高维to低维度的编码器.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.8 tf 批标准化-tf.moments函数的解释.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.8 tf 批标准化-加上了可视化.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.8 tf 批标准化-可视化函数的解释.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.8 tf 批标准化.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/2.9 tf lstm_回归.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/MNIST_data/t10k-images-idx3-ubyte.gz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/MNIST_data/t10k-labels-idx1-ubyte.gz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/MNIST_data/train-images-idx3-ubyte.gz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/MNIST_data/train-labels-idx1-ubyte.gz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/RNN 学习/belling_the_cat.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/RNN 学习/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/RNN 学习/rnn_mydemo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/RNN 学习/rnn_mydemo2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/RNN 学习/rnn_word.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/RNN 学习/test1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/RNN 学习/test2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/RNN 学习/todo.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/my_net/checkpoint" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/my_net/save_net.ckpt.data-00000-of-00001" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/my_net/save_net.ckpt.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/my_net/save_net.ckpt.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/tensorflow scope/1_tensorflow 共享变量存在的问题1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/tensorflow scope/2_tensorflow 共享变量存在的问题2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/tensorflow scope/3_使用variable_scope 共享变量.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/tensorflow scope/4_使用variable_scope 共享变量2-vgg里面的表现形式.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/tensorflow scope/5_使用variable_scope 有多个name的时候.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/tensorflow scope/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/tensorflow scope/huangguan_test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/tensorflow scope/scope_test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/tensorflow scope/test1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/tensorflow scope/test2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/tensorflow scope/test3_assign.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/study/tensorflow_tutorials/tensorflow scope/tf22_RNN_scope.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1200" />
+    <option name="height" value="684" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test_tf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_tf" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Pycharm_Git\test_tf\study" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="625dd994-abc4-4c83-946f-158bb6f866b9" name="Default" comment="" />
+      <created>1547012637938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547012637938</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/study/tensorflow_tutorials/my_net/checkpoint">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/tensorflow_tutorials/1.7 计算cost的优化方式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
